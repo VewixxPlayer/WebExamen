@@ -1,0 +1,45 @@
+.head1{
+	color: darkgreen;
+	font-family: monospace;
+	text-align: center;
+}
+
+.head2{
+	color: white;
+	background-color: darkgreen;
+	font-family: verdana;
+	text-align: center;
+}
+
+.mainDiv{
+	align-content: center;
+	display: flex;
+	justify-content: center;
+}
+
+.mainPageImg{
+	padding: 50px;
+	height: 120px;
+	width: 120px;
+}
+
+.mainPageImg:hover{
+	height: 180px;
+	width: 180px;
+}
+
+.sportImg{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.backButton{
+	color: red;
+	font-size: 30px;
+	text-align: center;
+}
+
+.backButton:visited{
+	color: red;
+}
